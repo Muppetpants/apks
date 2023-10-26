@@ -1,0 +1,44 @@
+Android Version 6.x:
+1. Reset Phone
+        Settings > Backup & Rest > Factory Data Reset > Reset Phone > Erase Everything
+2. Initial Setup
+        Hack your way through it
+3. Enable Developer Mode
+        Settings > About Phone > Build Number (7x)
+4. Enable USB Debugging
+        Settings > Developer Options > USB Debugging 
+5. Allow apk
+        Settings > Security > Unknown Sources
+6. Connect phone to Kali via USB
+        Swipe from top >  USB for Charging >Transfer Files 
+7. Drag and drop files to "Internal Storage/Download" within phone file system
+8. Copy from Download to Downloads
+	Settings > Storage & USB > Explore > Download > Long press to highlight > 3-dots > Copy to…> Downloads > Copy
+9. Install Apps
+        Home Screen > Downloads >  Click APK > Install > Done
+
+
+
+
+
+
+
+
+
+
+Android Version 8.1.x:
+1. Reset Phone
+        Settings > System >  Reset Options > Erase All Data (Factory Reset) > Reset Phone>  Erase Everything
+2. Initial Setup
+        Hack your way through it
+3. Enable Developer Mode
+        Settings > System > About Phone > Build Number (7x)
+4. Enable USB Debugging
+        Settings > Developer Options > USB Debugging 
+5. Connect phone to Kali via USB
+        Swipe from top >  USB Charging This Device >Transfer Files 
+6. Drag 'n' Drop files to "Internal Shared Storage/Download" within phone file system
+7. Install Apps
+        Home Screen > Downloads >  Click APK > Install > Done
+
+
